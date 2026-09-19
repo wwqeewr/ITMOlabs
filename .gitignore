@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C/C++
+*.o
+*.out
+a.out
+
+# Java
+*.class
+target/
+
+# macOS
+.DS_Store
